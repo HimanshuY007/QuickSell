@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/QuickSell/static/css/main.78a61f9c.chunk.css",
+    "main.css": "/QuickSell/static/css/main.1f09743c.chunk.css",
     "main.js": "/QuickSell/static/js/main.1df7b77e.chunk.js",
     "main.js.map": "/QuickSell/static/js/main.1df7b77e.chunk.js.map",
     "runtime-main.js": "/QuickSell/static/js/runtime-main.87bce518.js",
@@ -10,13 +10,13 @@
     "static/js/3.d00f1d81.chunk.js": "/QuickSell/static/js/3.d00f1d81.chunk.js",
     "static/js/3.d00f1d81.chunk.js.map": "/QuickSell/static/js/3.d00f1d81.chunk.js.map",
     "index.html": "/QuickSell/index.html",
-    "static/css/main.78a61f9c.chunk.css.map": "/QuickSell/static/css/main.78a61f9c.chunk.css.map",
+    "static/css/main.1f09743c.chunk.css.map": "/QuickSell/static/css/main.1f09743c.chunk.css.map",
     "static/js/2.e4d1de36.chunk.js.LICENSE.txt": "/QuickSell/static/js/2.e4d1de36.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.87bce518.js",
     "static/js/2.e4d1de36.chunk.js",
-    "static/css/main.78a61f9c.chunk.css",
+    "static/css/main.1f09743c.chunk.css",
     "static/js/main.1df7b77e.chunk.js"
   ]
 }
